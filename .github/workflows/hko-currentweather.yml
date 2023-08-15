@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: 0 * * * *
+    - cron: 39 * * * * # not running at exactly minute 0 to be polite
 
 jobs:
   hko-current-weather:
