@@ -22,8 +22,8 @@
     <item>
        <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
 	  <guid isPermaLink="false">
-      http://rss.weather.gov.hk/rss/CurrentWeather/20230816060200</guid>
-<pubDate>Tue, 15 Aug 2023 22:02:00 GMT</pubDate>      <title>Bulletin updated at 06:02 HKT 16/08/2023</title>
+      http://rss.weather.gov.hk/rss/CurrentWeather/20230816064600</guid>
+<pubDate>Tue, 15 Aug 2023 22:46:00 GMT</pubDate>      <title>Bulletin updated at 06:46 HKT 16/08/2023</title>
       <category>R</category>
       <link>
       https://www.weather.gov.hk/en/wxinfo/currwx/current.htm</link>
@@ -34,7 +34,7 @@
                at the Hong Kong Observatory :<br/>
         Air temperature : 29 degrees Celsius<br/>
         Relative Humidity : 89 per cent<br/>
-		 										    																											                The air temperatures at other places were:
+		 										    																									<br/><font color="red"><SPAN id='warning_message' >Please be reminded that:<br/>The Very Hot Weather Warning was issued at 6:45 a.m. The public should beware of heat stroke and drink more water.<br/></SPAN><br/>		</font>                The air temperatures at other places were:
                 <br/>
                 <font size="-1">
     <table border="0" cellspacing="0" cellpadding="0">
