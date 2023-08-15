@@ -1,0 +1,25 @@
+name: Scrape HKO CurrentWeather
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 * * * *
+
+jobs:
+  hko-current-weather:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Fetch latest data
+        run: |-
+          curl -s https://rss.weather.gov.hk/rss/CurrentWeather.xml > CurrentWeather.xml
+      - name: Commit if changed
+        run: |-
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@users.noreply.github.com'
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Update CurrentWeather.xml at ${timestamp}" || exit 0
+          git push
