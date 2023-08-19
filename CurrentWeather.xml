@@ -22,15 +22,15 @@
     <item>
        <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
 	  <guid isPermaLink="false">
-      http://rss.weather.gov.hk/rss/CurrentWeather/20230820050200</guid>
-<pubDate>Sat, 19 Aug 2023 21:02:00 GMT</pubDate>      <title>Bulletin updated at 05:02 HKT 20/08/2023</title>
+      http://rss.weather.gov.hk/rss/CurrentWeather/20230820060200</guid>
+<pubDate>Sat, 19 Aug 2023 22:02:00 GMT</pubDate>      <title>Bulletin updated at 06:02 HKT 20/08/2023</title>
       <category>R</category>
       <link>
       https://www.weather.gov.hk/en/wxinfo/currwx/current.htm</link>
         <description>
         <![CDATA[
          <img src="https://rss.weather.gov.hk/img/pic62.png" style="vertical-align: middle;">        <p>At 
-        5 a.m. 
+        6 a.m. 
                at the Hong Kong Observatory :<br/>
         Air temperature : 29 degrees Celsius<br/>
         Relative Humidity : 87 per cent<br/>
@@ -53,7 +53,7 @@
     <tr><td><font size="-1">Tsing Yi</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
     <tr><td><font size="-1">Shek Kong</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
     <tr><td><font size="-1">Tsuen Wan Ho Koon</font></td><td width="100" align="right"><font size="-1">26 degrees ;</font></td></tr>
-    <tr><td><font size="-1">Tsuen Wan Shing Mun Valley</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Tsuen Wan Shing Mun Valley</font></td><td width="100" align="right"><font size="-1">26 degrees ;</font></td></tr>
     <tr><td><font size="-1">Hong Kong Park</font></td><td width="100" align="right"><font size="-1">29 degrees ;</font></td></tr>
     <tr><td><font size="-1">Shau Kei Wan</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
     <tr><td><font size="-1">Kowloon City</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
@@ -62,7 +62,7 @@
     <tr><td><font size="-1">Stanley</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
     <tr><td><font size="-1">Kwun Tong</font></td><td width="100" align="right"><font size="-1">28 degrees ;</font></td></tr>
     <tr><td><font size="-1">Sham Shui Po</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
-    <tr><td><font size="-1">Kai Tak Runway Park</font></td><td width="100" align="right"><font size="-1">28 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Kai Tak Runway Park</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
     <tr><td><font size="-1">Yuen Long Park</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
     <tr><td><font size="-1">Tai Mei Tuk</font></td><td width="100" align="right"><font size="-1">27 degrees .</font></td></tr>
     </table></font></p>
