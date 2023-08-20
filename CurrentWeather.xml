@@ -22,18 +22,18 @@
     <item>
        <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
 	  <guid isPermaLink="false">
-      http://rss.weather.gov.hk/rss/CurrentWeather/20230821010200</guid>
-<pubDate>Sun, 20 Aug 2023 17:02:00 GMT</pubDate>      <title>Bulletin updated at 01:02 HKT 21/08/2023</title>
+      http://rss.weather.gov.hk/rss/CurrentWeather/20230821020200</guid>
+<pubDate>Sun, 20 Aug 2023 18:02:00 GMT</pubDate>      <title>Bulletin updated at 02:02 HKT 21/08/2023</title>
       <category>R</category>
       <link>
       https://www.weather.gov.hk/en/wxinfo/currwx/current.htm</link>
         <description>
         <![CDATA[
          <img src="https://rss.weather.gov.hk/img/pic76.png" style="vertical-align: middle;">        <p>At 
-        1 a.m. 
+        2 a.m. 
                at the Hong Kong Observatory :<br/>
         Air temperature : 29 degrees Celsius<br/>
-        Relative Humidity : 87 per cent<br/>
+        Relative Humidity : 88 per cent<br/>
 		 										    																											                The air temperatures at other places were:
                 <br/>
                 <font size="-1">
@@ -56,7 +56,7 @@
     <tr><td><font size="-1">Tsuen Wan Shing Mun Valley</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
     <tr><td><font size="-1">Hong Kong Park</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
     <tr><td><font size="-1">Shau Kei Wan</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
-    <tr><td><font size="-1">Kowloon City</font></td><td width="100" align="right"><font size="-1">28 degrees ;</font></td></tr>
+    <tr><td><font size="-1">Kowloon City</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
     <tr><td><font size="-1">Happy Valley</font></td><td width="100" align="right"><font size="-1">28 degrees ;</font></td></tr>
     <tr><td><font size="-1">Wong Tai Sin</font></td><td width="100" align="right"><font size="-1">28 degrees ;</font></td></tr>
     <tr><td><font size="-1">Stanley</font></td><td width="100" align="right"><font size="-1">27 degrees ;</font></td></tr>
