@@ -22,8 +22,8 @@
     <item>
        <author>hkowm@hko.gov.hk (Hong Kong Observatory)</author>
 	  <guid isPermaLink="false">
-      http://rss.weather.gov.hk/rss/CurrentWeather/20230820210200</guid>
-<pubDate>Sun, 20 Aug 2023 13:02:00 GMT</pubDate>      <title>Bulletin updated at 21:02 HKT 20/08/2023</title>
+      http://rss.weather.gov.hk/rss/CurrentWeather/20230820212200</guid>
+<pubDate>Sun, 20 Aug 2023 13:22:00 GMT</pubDate>      <title>Bulletin updated at 21:22 HKT 20/08/2023</title>
       <category>R</category>
       <link>
       https://www.weather.gov.hk/en/wxinfo/currwx/current.htm</link>
@@ -34,7 +34,7 @@
                at the Hong Kong Observatory :<br/>
         Air temperature : 30 degrees Celsius<br/>
         Relative Humidity : 82 per cent<br/>
-		 										    																											                The air temperatures at other places were:
+		 										    																									<br/><font color="red"><SPAN id='warning_message' >Please be reminded that:<br/>The Thunderstorm Warning was issued at 9:21 p.m. It will remain effective until 11:00 p.m. today. A few thunderstorms are expected to occur over Hong Kong.<br/></SPAN><br/>		</font>                The air temperatures at other places were:
                 <br/>
                 <font size="-1">
     <table border="0" cellspacing="0" cellpadding="0">
